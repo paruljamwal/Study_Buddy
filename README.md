@@ -1,4 +1,4 @@
-<h1>Study Buddy</h1>
+<h1>Study Buddy 🙋‍♀️🙋‍♂️</h1>
 <br/>
 <br/>
 <img  margin-left:"30%  src='https://cdn.iste.org/www-root/560x315-Online-Learning-Landing-Page-Main-Image.gif' />

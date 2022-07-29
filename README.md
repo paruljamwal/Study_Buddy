@@ -16,3 +16,11 @@
 <br/>
 <br/>
 <img src='https://user-images.githubusercontent.com/96183163/181830778-c1d6b92d-55cd-493e-87e3-f368af0e7ea5.png' />
+
+<br/>
+<br/>
+
+<h2> Netlify: </h2>
+
+ Link🔗: https://nimble-mermaid-8af4ec.netlify.app
+

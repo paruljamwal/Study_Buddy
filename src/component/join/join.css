@@ -1,0 +1,108 @@
+
+
+.joinPage{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.joinContainer{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.joinContainer >img{
+    width: 10vmax;
+}
+
+.joinContainer > h1{
+   color: aliceblue;
+   font-size:2.5vmax;
+   width:30vmax;
+   border-bottom: 0.2vmax solid white;
+   text-align: center;
+   padding: 1vmax;
+}
+
+#joinInput{
+    width: 25vmax;
+    padding: 1.5vmax;
+    outline: none;
+    border: none;
+    font-size: 1.2vmax;
+    margin: 2vmax;
+    box-sizing: border-box;
+}
+
+
+
+.joinBtn{
+    width: 25vmax;
+    padding: 1.5vmax;
+    outline: none;
+    border: none;
+    font-size: 1.2vmax;
+    background-color: purple;
+    box-sizing: border-box;
+    color: aliceblue;
+    transition:all 0.3s ;
+    cursor: pointer;
+    
+    
+}
+
+
+.joinBtn:hover{
+  background-color: rgb(78, 3, 78);
+}
+
+
+@media (max-aspect-ratio: 7/10) {
+
+    .joinPage{
+       
+      
+        display: flex;
+        justify-content: center;
+        align-items: flex-start ;
+    }
+    .joinContainer{
+        margin-top: 30vw;
+        width: 100%;
+       
+    }
+
+    .joinContainer > img{
+        width: 30vw;
+    }
+    .joinContainer > h1{
+      
+        font-size: 6vw;
+        width: 65vw ;
+        border-bottom: 0.6vw solid white    ;
+        padding: 3vw ;
+       
+    }
+
+    #joinInput{
+        width: 65vw ;
+        padding: 4vw ;
+       
+        font-size: 5vw;
+        margin:5vw ;
+       
+    }
+    .joinBtn{
+        width: 65vw ;
+        padding: 4vw ;
+        
+        font-size: 5vw ;
+      
+    }
+}

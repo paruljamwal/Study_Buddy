@@ -1,6 +1,10 @@
 <h1>Study Buddy </h1>
 <br/>
 <br/>
+<img src='https://cdn.iste.org/www-root/560x315-Online-Learning-Landing-Page-Main-Image.gif' />
+
+<br/>
+<br/>
 
 <img src='https://user-images.githubusercontent.com/96183163/181830596-edbc0b5f-bf0c-460f-89ab-6bc51fe2a279.png' />
 <br/>

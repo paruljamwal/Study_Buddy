@@ -1,7 +1,7 @@
 <h1>Study Buddy </h1>
 <br/>
 <br/>
-<img src='https://cdn.iste.org/www-root/560x315-Online-Learning-Landing-Page-Main-Image.gif' />
+<img  style={{margin:"auto"}} src='https://cdn.iste.org/www-root/560x315-Online-Learning-Landing-Page-Main-Image.gif' />
 
 <br/>
 <br/>

@@ -9,7 +9,7 @@ import "./Video.css"
 import { useParams } from 'react-router-dom';
 
 
-const socket = io.connect('https://buddystuddy.herokuapp.com/')
+const socket = io.connect('https://studdybuddy.up.railway.app/')
 function Video() {
 	const [ me, setMe ] = useState("")
 	const [ stream, setStream ] = useState()

@@ -12,7 +12,7 @@ import video from './video.svg'
 
 
 let socket;
-const ENDPOINT='https://buddystuddy.herokuapp.com/';
+const ENDPOINT='https://studdybuddy.up.railway.app/';
 const Chat = () => {
 const [id,setId]=useState('');
 const [messages,setMessages]=useState([])
